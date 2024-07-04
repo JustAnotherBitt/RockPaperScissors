@@ -7,8 +7,8 @@ This is a simple implementation of the classic Rock, Paper, Scissors game in C#.
   
 ## Setup Instructions
 ### Using Visual Studio Code
-1. Ensure you have the .NET SDK installed on your computer.
-2. Install the C# extension for Visual Studio Code.
+1. Ensure you have the <a href="https://dotnet.microsoft.com/pt-br/download">.NET SDK</a> installed on your computer.
+2. Install the <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp">C# extension for Visual Studio Code</a>.
 3.  Clone the repository to your local machine:
   `git clone https://github.com/LeRodrigues2005/rock-paper-scissors.git`
 5. Open the cloned repository folder in Visual Studio Code.
@@ -17,7 +17,7 @@ This is a simple implementation of the classic Rock, Paper, Scissors game in C#.
   `dotnet run`
 
 ### Using Visual Studio
-1. Ensure you have the Visual Studio installed with the .NET desktop development workload.
+1. Ensure you have the <a href="https://visualstudio.microsoft.com/pt-br/">Visual Studio</a>installed with the .NET desktop development workload.
 2. Clone the repository to your local machine:
   `git clone https://github.com/LeRodrigues2005/rock-paper-scissors.git`
 3. Open the cloned repository folder in Visual Studio.
