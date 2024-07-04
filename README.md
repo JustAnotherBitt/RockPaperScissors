@@ -41,7 +41,7 @@ The main logic of the game is implemented in the Program class. Here's a brief o
 
 ### Example Output
 ![image](https://github.com/LeRodrigues2005/RockPaperScissors/assets/97632543/fe1fda59-8ce3-4700-8742-057dcb22d06f)
-## Note
+### Note
 You may see the following warning: `warning CS8602: Dereference of a possibly null reference.`
 However, this will not prevent the game from running correctly.
 
