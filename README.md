@@ -10,7 +10,7 @@ This is a simple implementation of the classic Rock, Paper, Scissors game in C#.
 1. Ensure you have the <a href="https://dotnet.microsoft.com/pt-br/download">.NET SDK</a> installed on your computer.
 2. Install the <a href="https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp">C# extension for Visual Studio Code</a>.
 3.  Clone the repository to your local machine:
-  `git clone https://github.com/LeRodrigues2005/rock-paper-scissors.git`
+  `git clone https://github.com/LeRodrigues2005/RockPaperScissors.git`
 5. Open the cloned repository folder in Visual Studio Code.
 6.  Open the terminal in Visual Studio Code and navigate to the project directory.
 7.  Run the following command to build and run the program:
@@ -19,7 +19,7 @@ This is a simple implementation of the classic Rock, Paper, Scissors game in C#.
 ### Using Visual Studio
 1. Ensure you have the <a href="https://visualstudio.microsoft.com/pt-br/">Visual Studio</a> installed with the .NET desktop development workload.
 2. Clone the repository to your local machine:
-  `git clone https://github.com/LeRodrigues2005/rock-paper-scissors.git`
+  `git clone https://github.com/LeRodrigues2005/RockPaperScissors.git`
 3. Open the cloned repository folder in Visual Studio.
 4.  Build and run the program by pressing `Ctrl + F5` or by clicking on ***Run*** in the menu.
    
