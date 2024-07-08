@@ -2,8 +2,8 @@
 This is a simple implementation of the classic Rock, Paper, Scissors game in C#. The game allows a player to compete against the computer, with the option to play multiple rounds until the player decides to quit.
 
 ## Prerequisites
-- Visual Studio Code or Visual Studio
-- .NET SDK
+- <a href="https://code.visualstudio.com">Visual Studio Code</a> or <a href="https://visualstudio.microsoft.com/pt-br/">Visual Studio</a>
+- <a href="https://dotnet.microsoft.com/pt-br/download">.NET SDK</a>
   
 ## Setup Instructions
 ### Using Visual Studio Code
